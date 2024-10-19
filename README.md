@@ -1,6 +1,6 @@
 AI Agent with OpenAI and Twilio WhatsApp Integration
 
-Project Overview 
+Project Overview - 
 This project develops an AI agent using the OpenAI API that integrates with Twilio's WhatsApp functionality. The AI agent accepts the users return orders and update them in database.
 
 Features
